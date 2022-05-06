@@ -10,4 +10,3 @@
 } || {
     screen -r -S "bot_teste" -X quit
     clear && echo "BOT DESATIVADO"
-}
